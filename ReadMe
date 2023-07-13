@@ -1,0 +1,15 @@
+This project main goal is to consolidate the knowledge of usage of API's in Python.
+
+So, to start write in terminal `python weather.py` and if all the packages are installed and downloaded properly it should give you the option to select the city. After if the conection to API is good you should get similar response to mine:
+
+`` Python
+Enter a location: New York
+Weather in New York
+Time: 2023-07-13 13:01:20
+Main weather: Clouds
+Description: scattered clouds
+Temperature: 23.37 °C
+Humidity: 76 %
+``
+
+And that is all this programm do for now.
